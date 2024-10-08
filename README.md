@@ -6,7 +6,7 @@
 - <b>Network Optimizations</b>
   - [How To Update your Network Drivers](https://github.com/Workwithaustinw/Networkdrivers)
   - [How To Configuring Your Network Adapter for iPv4 and iPv6 only](https://github.com/Workwithaustinw/ipv4ipv6)
-  - [How To Optimize your Group Policy to Limit Bufferbloat](https://github.com/Workwithaustinw/ticket-lifecycle)
+  - [How To Optimize your Group Policy to Limit Bufferbloat](https://github.com/Workwithaustinw/LimitBufferbloat)
   
  - <b>Windows 10 Optimazations</b>
    - [Adding Ultimate Performance Mode for Maximum Speed](https://github.com/Workwithaustinw/configure-ad)
