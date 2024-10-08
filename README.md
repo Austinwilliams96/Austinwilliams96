@@ -1,7 +1,7 @@
 <h1>Hi, I'm Austin, an IT Professional and Influencer</a>☺</h1>
 
 
-<h2> Instagram Influencer</h2>
+<h2> 🌍Instagram Influencer🌍</h2>
 I have built a following of over 200,000 people on Instagram by sharing motivational and positive content ✨. My focus is on health 💪, positive thinking 🌟, and inspiring others to be their best selves. In today's world, I believe it is crucial to strive for personal excellence and contribute positively to society 🌍. Through this page, my goal has been to help thousands of individuals improve themselves, and I’m proud to say that I’ve received thousands of messages filled with positive feedback 💬❤️.
 
 
