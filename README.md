@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin, an IT Professional and Influencer</a>☺</h1>
+<h1>Hi, I'm Austin, an IT Professional and Influencer✨</a>☺</h1>
 
 
 <h2> 🌍Instagram Influencer🌍</h2>
