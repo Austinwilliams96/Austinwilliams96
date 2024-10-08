@@ -13,7 +13,7 @@ I have built a following of over 200,000 people on Instagram by sharing motivati
   - [How To Optimize your Group Policy to Limit Bufferbloat](https://github.com/Workwithaustinw/LimitBufferbloat)
   
  - <b>Windows 10 Optimazations</b>
-   - [Adding Ultimate Performance Mode for Maximum Speed](https://github.com/Workwithaustinw/UltimatePerformance)
+   - [Adding Ultimate Performance Mode for Maximum Speed](https://github.com/Workwithaustinw/UltimatePerfomance)
    - [Optimize your Windows 10 for perfomance and Speed Up your PC](https://github.com/Workwithaustinw/Windows10)
 
 <h2>🤳Connect with me:</h2>
