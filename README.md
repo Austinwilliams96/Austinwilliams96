@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Network Optimizations</b>
-  - [How To Update your Network Drivers](https://github.com/Workwithaustinw/osticket-prereqs)
+  - [How To Update your Network Drivers](https://github.com/Workwithaustinw/Networkdrivers)
   - [How To Configuring Your Network Adapter for iPv4 and iPv6 only](https://github.com/Workwithaustinw/post-install-config)
   - [How To Optimize your Group Policy to Limit Bufferbloat](https://github.com/Workwithaustinw/ticket-lifecycle)
   
