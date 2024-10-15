@@ -19,6 +19,6 @@ I have built a following of over 200,000 people on Instagram by sharing motivati
   - [How To Configuring Your Network Adapter for iPv4 and iPv6 only](https://github.com/Workwithaustinw/ipv4ipv6)
   - [How To Optimize your Group Policy to Limit Bufferbloat](https://github.com/Workwithaustinw/LimitBufferbloat)
   
- - <b>Windows 10 Optimazations</b>
+ - <b>Windows 10 Optimizations</b>
    - [Adding Ultimate Performance Mode for Maximum Speed](https://github.com/Workwithaustinw/UltimatePerfomance)
    - [Optimize your Windows 10 for perfomance and Speed Up your PC](https://github.com/Workwithaustinw/Windows10)
