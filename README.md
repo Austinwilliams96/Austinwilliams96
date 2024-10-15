@@ -16,7 +16,7 @@ I have built a following of over 200,000 people on Instagram by sharing motivati
 
 - <b>Network Optimizations</b>
   - [How To Update your Network Drivers](https://github.com/Workwithaustinw/Networkdrivers)
-  - [How To Configuring Your Network Adapter for iPv4 and iPv6 only](https://github.com/Workwithaustinw/ipv4ipv6)
+  - [How To Configure Your Network Adapter for iPv4 and iPv6 only](https://github.com/Workwithaustinw/ipv4ipv6)
   - [How To Optimize your Group Policy to Limit Bufferbloat](https://github.com/Workwithaustinw/LimitBufferbloat)
   
  - <b>Windows 10 Optimizations</b>
